@@ -1,0 +1,1 @@
+Add Angelie's four photo files in this folder. Then open ../../photos.js, set active to true, and replace each sample src value with the exact filename. The frames will fill in around the letter.
